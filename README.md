@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Report
 Problem Statement
 
@@ -55,3 +56,7 @@ with the prediction:
 or:
 
 ⚠️ Fraudulent Job Posting
+=======
+# Fake-Job-Posting-Detection-System
+Fake job postings can mislead job seekers and may be used to collect personal information or money. This project develops a machine learning system that automatically classifies job postings as fraudulent or legitimate using textual and structured job-related features.
+>>>>>>> 4192a1b3feb80bdfb6f5b1d31eeae590b5847704
